@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="css/style.css">
-    <title>Redmi Note 11 (spes) - Maintainter Tanvir Hasan</title>
+<title>Redmi Note 11 (spes) - Maintainter Tanvir Hasan</title>
 </head>
 <body>
     <header class="page-header" role="banner">
